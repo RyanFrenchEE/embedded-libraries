@@ -1,0 +1,98 @@
+IO_Expander	KEYWORD1
+
+resetRegisters		KEYWORD2
+resetChip		KEYWORD2
+saveRegisters		KEYWORD2
+loadRegisters		KEYWORD2
+
+resetDirectionA		KEYWORD2
+resetDirectionB		KEYWORD2
+resetDirections		KEYWORD2
+setDirectionA		KEYWORD2
+setDirectionB		KEYWORD2
+setDirections		KEYWORD2
+readDirectionA		KEYWORD2
+readDirectionB		KEYWORD2
+readDirections		KEYWORD2
+
+resetPolarityA		KEYWORD2
+resetPolarityB		KEYWORD2
+resetPolarities		KEYWORD2
+setPolarityA		KEYWORD2
+setPolarityB		KEYWORD2
+setPolarities		KEYWORD2
+readPolarityA		KEYWORD2
+readPolarityB		KEYWORD2
+readPolarities		KEYWORD2
+
+resetIOCA		KEYWORD2
+resetIOCB		KEYWORD2
+resetIOCs		KEYWORD2
+setIOCA		KEYWORD2
+setIOCB		KEYWORD2
+setIOCs		KEYWORD2
+readIOCA		KEYWORD2
+readIOCB		KEYWORD2
+readIOCs		KEYWORD2
+
+resetDefCompA		KEYWORD2
+resetDefCompB		KEYWORD2
+resetDefComps		KEYWORD2
+setDefCompA		KEYWORD2
+setDefCompB		KEYWORD2
+setDefComps		KEYWORD2
+readDefCompA		KEYWORD2
+readDefCompB		KEYWORD2
+readDefComps		KEYWORD2
+
+resetIntContA		KEYWORD2
+resetIntContB		KEYWORD2
+resetIntConts		KEYWORD2
+setIntContA		KEYWORD2
+setIntContB		KEYWORD2
+setIntConts		KEYWORD2
+readIntContA		KEYWORD2
+readIntContB		KEYWORD2
+readIntConts		KEYWORD2
+
+resetConfig		KEYWORD2
+setConfig		KEYWORD2
+readConfig		KEYWORD2
+
+resetPullupA		KEYWORD2
+resetPullupB		KEYWORD2
+resetPullups		KEYWORD2
+setPullupA		KEYWORD2
+setPullupB		KEYWORD2
+setPullups		KEYWORD2
+readPullupA		KEYWORD2
+readPullupB		KEYWORD2
+readPullups		KEYWORD2
+
+readINTFA		KEYWORD2
+readINTFB		KEYWORD2
+readINTFs		KEYWORD2
+
+readINTCAPA		KEYWORD2
+readINTCAPB		KEYWORD2
+readINTCAPs		KEYWORD2
+
+resetIOA		KEYWORD2
+resetIOB		KEYWORD2
+resetIOs		KEYWORD2
+setIOA		KEYWORD2
+setIOB		KEYWORD2
+setIOs		KEYWORD2
+readIOA		KEYWORD2
+readIOB		KEYWORD2
+readIOs		KEYWORD2
+
+resetLatchA		KEYWORD2
+resetLatchB		KEYWORD2
+resetLatches		KEYWORD2
+setLatchA		KEYWORD2
+setLatchB		KEYWORD2
+setLatches		KEYWORD2
+readLatchA		KEYWORD2
+readLatchB		KEYWORD2
+readLatches		KEYWORD2

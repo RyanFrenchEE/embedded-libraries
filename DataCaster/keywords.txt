@@ -1,0 +1,6 @@
+DataCaster	KEYWORD1
+
+value	KEYWORD2
+byteValue	KEYWORD2
+longValue	KEYWORD2
+floatValue	KEYWORD2
