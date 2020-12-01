@@ -1,0 +1,16 @@
+###################################
+#      Datatypes (KEYWORD1)
+###################################
+SerialCLI	KEYWORD1
+
+
+###################################
+# Methods and Functions (KEYWORD2)
+###################################
+
+addCommand	KEYWORD2
+displayCLI	KEYWORD2
+pollCLI	KEYWORD2
+initCLI	KEYWORD2
+string2Long	KEYWORD2
+string2Float	KEYWORD2

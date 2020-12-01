@@ -1,0 +1,9 @@
+LTC6903	KEYWORD1
+
+set_chip	KEYWORD2
+set_frequency	KEYWORD2
+get_frequency	KEYWORD2
+get_OCT	KEYWORD2
+get_DAC	KEYWORD2
+get_oct_error	KEYWORD2
+get_dac_error	KEYWORD2
